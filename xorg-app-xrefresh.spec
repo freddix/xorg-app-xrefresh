@@ -1,11 +1,11 @@
 Summary:	xrefresh application
 Name:		xorg-app-xrefresh
-Version:	1.0.4
+Version:	1.0.5
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xrefresh-%{version}.tar.bz2
-# Source0-md5:	2f63f88ad0dcecd33c8cf000f38e9250
+# Source0-md5:	a896382bc53ef3e149eaf9b13bc81d42
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
